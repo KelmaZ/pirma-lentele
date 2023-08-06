@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=PT+Sans:ital@1&display=swap');
+
+table {
+    margin: 50px auto;
+    border: 1px solid #F2BE22;
+    border-collapse: collapse;
+    font-family: oswald;
+}
+
+td, th {
+    border: 1px solid #F2BE22;
+    padding: 20px;
+}
+
+.orange {
+    background: orange;
+    color: black;
+    font-weight: bold;
+}
+
+.yellow {
+    background: #fdd663;
+    color: black;
+    font-weight: bold;
+}
+
+.purple {
+    background: #512B81;
+    color: white;
+}
